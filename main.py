@@ -10,4 +10,6 @@ if __name__ == "__main__":
 
     user_answer = GameHandler.getUserAnswer("Your answer (type the option number): ")
 
+    isTrue = GameHandler.checkAnswer(question, user_answer)
+
     
