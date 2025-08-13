@@ -1,0 +1,5 @@
+{
+  "question": "What is the smallest planet in our solar system?",
+  "options": ["Earth", "Mars", "Mercury", "Venus"],
+  "answer": "Mercury"
+}
