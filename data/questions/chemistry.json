@@ -1,0 +1,172 @@
+[
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Ag", "Au", "Gd", "Go"],
+    "answer": "Au"
+  },
+  {
+    "question": "What is the atomic number of hydrogen?",
+    "options": ["0", "1", "2", "3"],
+    "answer": "1"
+  },
+  {
+    "question": "Which gas is known as laughing gas?",
+    "options": ["Nitrous oxide", "Carbon dioxide", "Oxygen", "Methane"],
+    "answer": "Nitrous oxide"
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+    "answer": "NaCl"
+  },
+  {
+    "question": "Which element has the highest electrical conductivity?",
+    "options": ["Gold", "Copper", "Silver", "Aluminum"],
+    "answer": "Silver"
+  },
+  {
+    "question": "What is the pH of pure water at 25°C?",
+    "options": ["0", "7", "14", "1"],
+    "answer": "7"
+  },
+  {
+    "question": "Which acid is found in vinegar?",
+    "options": ["Acetic acid", "Citric acid", "Sulfuric acid", "Lactic acid"],
+    "answer": "Acetic acid"
+  },
+  {
+    "question": "Which gas is essential for respiration?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Helium"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What is the most abundant element in Earth's crust?",
+    "options": ["Oxygen", "Silicon", "Aluminum", "Iron"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Lead", "Gallium", "Sodium"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "What type of bond involves the sharing of electrons?",
+    "options": [
+      "Ionic bond",
+      "Covalent bond",
+      "Hydrogen bond",
+      "Metallic bond"
+    ],
+    "answer": "Covalent bond"
+  },
+  {
+    "question": "Which chemical element is represented by the symbol 'K'?",
+    "options": ["Krypton", "Potassium", "Calcium", "Cobalt"],
+    "answer": "Potassium"
+  },
+  {
+    "question": "Which process converts liquid into gas at any temperature?",
+    "options": ["Evaporation", "Boiling", "Sublimation", "Condensation"],
+    "answer": "Evaporation"
+  },
+  {
+    "question": "Which gas is produced during photosynthesis?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Methane"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What is the main component of natural gas?",
+    "options": ["Ethane", "Methane", "Propane", "Butane"],
+    "answer": "Methane"
+  },
+  {
+    "question": "Which acid is present in lemon juice?",
+    "options": ["Acetic acid", "Citric acid", "Lactic acid", "Oxalic acid"],
+    "answer": "Citric acid"
+  },
+  {
+    "question": "What is the chemical symbol for lead?",
+    "options": ["Ld", "Pb", "Le", "Pl"],
+    "answer": "Pb"
+  },
+  {
+    "question": "Which branch of chemistry studies carbon compounds?",
+    "options": [
+      "Inorganic chemistry",
+      "Physical chemistry",
+      "Organic chemistry",
+      "Analytical chemistry"
+    ],
+    "answer": "Organic chemistry"
+  },
+  {
+    "question": "Which gas is used in balloons to make them float?",
+    "options": ["Hydrogen", "Oxygen", "Nitrogen", "Helium"],
+    "answer": "Helium"
+  },
+  {
+    "question": "Which element is a halogen?",
+    "options": ["Oxygen", "Chlorine", "Neon", "Nitrogen"],
+    "answer": "Chlorine"
+  },
+  {
+    "question": "What is the chemical name for rust?",
+    "options": [
+      "Iron oxide",
+      "Copper sulfate",
+      "Aluminum oxide",
+      "Calcium carbonate"
+    ],
+    "answer": "Iron oxide"
+  },
+  {
+    "question": "Which metal is the best conductor of electricity?",
+    "options": ["Gold", "Copper", "Silver", "Aluminum"],
+    "answer": "Silver"
+  },
+  {
+    "question": "Which element is needed for the production of nuclear energy?",
+    "options": ["Uranium", "Plutonium", "Thorium", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which gas causes the greenhouse effect?",
+    "options": ["Oxygen", "Carbon dioxide", "Helium", "Nitrogen"],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "Which acid is used in car batteries?",
+    "options": [
+      "Nitric acid",
+      "Sulfuric acid",
+      "Hydrochloric acid",
+      "Phosphoric acid"
+    ],
+    "answer": "Sulfuric acid"
+  },
+  {
+    "question": "Which chemical process turns milk into yogurt?",
+    "options": ["Fermentation", "Distillation", "Sublimation", "Oxidation"],
+    "answer": "Fermentation"
+  },
+  {
+    "question": "What is the lightest element?",
+    "options": ["Hydrogen", "Helium", "Lithium", "Neon"],
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "Which element has the atomic number 6?",
+    "options": ["Nitrogen", "Oxygen", "Carbon", "Boron"],
+    "answer": "Carbon"
+  },
+  {
+    "question": "What is the term for a substance that speeds up a chemical reaction without being consumed?",
+    "options": ["Catalyst", "Reactant", "Enzyme", "Solvent"],
+    "answer": "Catalyst"
+  },
+  {
+    "question": "Which element is used in light bulb filaments?",
+    "options": ["Tungsten", "Copper", "Aluminum", "Iron"],
+    "answer": "Tungsten"
+  }
+]

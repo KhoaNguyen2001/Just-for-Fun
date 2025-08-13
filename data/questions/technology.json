@@ -1,0 +1,232 @@
+[
+  {
+    "question": "What does 'HTTP' stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "HighText Transfer Protocol",
+      "Hyper Transfer Text Protocol",
+      "Hyperlink Transfer Text Protocol"
+    ],
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "question": "Which company developed the Windows operating system?",
+    "options": ["Apple", "Microsoft", "IBM", "Google"],
+    "answer": "Microsoft"
+  },
+  {
+    "question": "What does 'CPU' stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Central Program Unit",
+      "Computer Personal Unit",
+      "Central Power Unit"
+    ],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Which programming language is primarily used for web development?",
+    "options": ["Python", "JavaScript", "C++", "Java"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is the name of the first electronic general-purpose computer?",
+    "options": ["ENIAC", "UNIVAC", "IBM 701", "Colossus"],
+    "answer": "ENIAC"
+  },
+  {
+    "question": "Which company makes the iPhone?",
+    "options": ["Samsung", "Apple", "Google", "Huawei"],
+    "answer": "Apple"
+  },
+  {
+    "question": "What does 'URL' stand for?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Resource Locator",
+      "Uniform Retrieval Location",
+      "Universal Retrieval Location"
+    ],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "question": "Which technology is used for wireless communication over short distances?",
+    "options": ["Bluetooth", "Ethernet", "Fiber optics", "Infrared"],
+    "answer": "Bluetooth"
+  },
+  {
+    "question": "What does 'AI' stand for in technology?",
+    "options": [
+      "Automated Information",
+      "Artificial Intelligence",
+      "Automated Input",
+      "Advanced Integration"
+    ],
+    "answer": "Artificial Intelligence"
+  },
+  {
+    "question": "Which programming language is used for Android app development?",
+    "options": ["Swift", "Kotlin", "Ruby", "C#"],
+    "answer": "Kotlin"
+  },
+  {
+    "question": "What does 'HTML' stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "Hyper Transfer Markup Language",
+      "HighText Markup Language",
+      "Hyperlink Markup Language"
+    ],
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "question": "What is the main function of a firewall in computer networks?",
+    "options": [
+      "Store data",
+      "Block unauthorized access",
+      "Speed up internet",
+      "Manage passwords"
+    ],
+    "answer": "Block unauthorized access"
+  },
+  {
+    "question": "Which company created the search engine Google?",
+    "options": [
+      "Larry Page and Sergey Brin",
+      "Bill Gates and Paul Allen",
+      "Steve Jobs and Steve Wozniak",
+      "Mark Zuckerberg and Eduardo Saverin"
+    ],
+    "answer": "Larry Page and Sergey Brin"
+  },
+  {
+    "question": "What does 'IoT' stand for?",
+    "options": [
+      "Internet of Technology",
+      "Internet of Things",
+      "Integration of Technology",
+      "Information of Things"
+    ],
+    "answer": "Internet of Things"
+  },
+  {
+    "question": "Which storage device has no moving parts?",
+    "options": [
+      "Hard disk drive",
+      "Solid-state drive",
+      "Floppy disk",
+      "CD-ROM"
+    ],
+    "answer": "Solid-state drive"
+  },
+  {
+    "question": "Which social media platform is owned by Meta?",
+    "options": ["Twitter", "Instagram", "Snapchat", "TikTok"],
+    "answer": "Instagram"
+  },
+  {
+    "question": "What does 'VPN' stand for?",
+    "options": [
+      "Virtual Private Network",
+      "Virtual Public Network",
+      "Verified Private Network",
+      "Verified Public Network"
+    ],
+    "answer": "Virtual Private Network"
+  },
+  {
+    "question": "What is the name of Apple's operating system for iPhones?",
+    "options": ["macOS", "iOS", "watchOS", "tvOS"],
+    "answer": "iOS"
+  },
+  {
+    "question": "Which programming language is known for its snake logo?",
+    "options": ["Python", "Java", "Ruby", "Go"],
+    "answer": "Python"
+  },
+  {
+    "question": "What does 'SSD' stand for?",
+    "options": [
+      "Solid State Drive",
+      "Solid Storage Device",
+      "System Storage Drive",
+      "System State Disk"
+    ],
+    "answer": "Solid State Drive"
+  },
+  {
+    "question": "Which cloud platform is developed by Amazon?",
+    "options": ["Azure", "AWS", "Google Cloud", "IBM Cloud"],
+    "answer": "AWS"
+  },
+  {
+    "question": "What does '5G' refer to?",
+    "options": [
+      "Fifth Generation wireless technology",
+      "Five Gigabytes internet speed",
+      "Fifth Grade technology",
+      "Five Gate network"
+    ],
+    "answer": "Fifth Generation wireless technology"
+  },
+  {
+    "question": "Which company developed the video game 'Minecraft'?",
+    "options": ["Epic Games", "Mojang", "Valve", "Nintendo"],
+    "answer": "Mojang"
+  },
+  {
+    "question": "What does 'GPU' stand for?",
+    "options": [
+      "Graphics Processing Unit",
+      "General Processing Unit",
+      "Graphics Program Utility",
+      "General Program Utility"
+    ],
+    "answer": "Graphics Processing Unit"
+  },
+  {
+    "question": "Which technology is used in cryptocurrency transactions?",
+    "options": [
+      "Blockchain",
+      "Artificial Intelligence",
+      "Cloud computing",
+      "Quantum computing"
+    ],
+    "answer": "Blockchain"
+  },
+  {
+    "question": "Which company developed the PlayStation gaming console?",
+    "options": ["Microsoft", "Sony", "Nintendo", "Sega"],
+    "answer": "Sony"
+  },
+  {
+    "question": "What does 'CSS' stand for?",
+    "options": [
+      "Cascading Style Sheets",
+      "Creative Style Sheets",
+      "Computer Style Sheets",
+      "Colorful Style Sheets"
+    ],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "question": "What does 'BIOS' stand for in computers?",
+    "options": [
+      "Basic Input Output System",
+      "Binary Input Output Setup",
+      "Basic Integrated Operating System",
+      "Binary Integrated Output Setup"
+    ],
+    "answer": "Basic Input Output System"
+  },
+  {
+    "question": "Which email service is owned by Microsoft?",
+    "options": ["Gmail", "Yahoo Mail", "Outlook", "ProtonMail"],
+    "answer": "Outlook"
+  },
+  {
+    "question": "Which programming language is primarily used in data science and machine learning?",
+    "options": ["Python", "PHP", "C", "Swift"],
+    "answer": "Python"
+  }
+]
