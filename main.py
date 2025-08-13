@@ -1,7 +1,9 @@
 from config import Settings
-from utils import GameHandler
+from utils import GameHandler, StatisticHandler
 
 if __name__ == "__main__":
+    statistics = StatisticHandler()
+
     questions = GameHandler.getAllQuestions(Settings.QUESTIONS_PATH)
 
     question = GameHandler.getOneQuestion(questions)
@@ -12,4 +14,8 @@ if __name__ == "__main__":
 
     isTrue = GameHandler.checkAnswer(question, user_answer)
 
-    
+    statistics = StatisticHandler()
+
+    statistics.updateWithResult(isTrue)
+
+    statistics.setStatistics()
