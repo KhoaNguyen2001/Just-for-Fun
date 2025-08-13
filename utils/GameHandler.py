@@ -11,7 +11,7 @@ class GameHandler:
             if filename.endswith('.json'):
                 file_path = os.path.join(questions_folder_path, filename)
                 question_data = FileHandler.readJsonFile(file_path)
-                questions.append(question_data)
+                questions.extend(question_data)
         return questions
 
     @staticmethod

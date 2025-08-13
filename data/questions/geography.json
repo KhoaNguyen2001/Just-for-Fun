@@ -1,0 +1,172 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "answer": "Paris"
+  },
+  {
+    "question": "Which is the largest country in the world by area?",
+    "options": ["Canada", "China", "United States", "Russia"],
+    "answer": "Russia"
+  },
+  {
+    "question": "Which river is the longest in the world?",
+    "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+    "answer": "Nile"
+  },
+  {
+    "question": "Mount Everest is located on the border of which two countries?",
+    "options": [
+      "China and India",
+      "China and Nepal",
+      "India and Nepal",
+      "Bhutan and Nepal"
+    ],
+    "answer": "China and Nepal"
+  },
+  {
+    "question": "Which is the smallest country in the world?",
+    "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+    "answer": "Vatican City"
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "Which desert is the largest hot desert in the world?",
+    "options": ["Gobi", "Kalahari", "Sahara", "Arabian"],
+    "answer": "Sahara"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Which country has the most islands in the world?",
+    "options": ["Norway", "Sweden", "Indonesia", "Philippines"],
+    "answer": "Sweden"
+  },
+  {
+    "question": "Which mountain range separates Europe and Asia?",
+    "options": ["Alps", "Himalayas", "Ural Mountains", "Andes"],
+    "answer": "Ural Mountains"
+  },
+  {
+    "question": "What is the deepest ocean trench in the world?",
+    "options": [
+      "Tonga Trench",
+      "Puerto Rico Trench",
+      "Java Trench",
+      "Mariana Trench"
+    ],
+    "answer": "Mariana Trench"
+  },
+  {
+    "question": "Which country has the largest population?",
+    "options": ["India", "United States", "China", "Indonesia"],
+    "answer": "China"
+  },
+  {
+    "question": "Which continent has the most countries?",
+    "options": ["Asia", "Europe", "Africa", "South America"],
+    "answer": "Africa"
+  },
+  {
+    "question": "The Great Barrier Reef is located in which country?",
+    "options": ["Australia", "Philippines", "Fiji", "Indonesia"],
+    "answer": "Australia"
+  },
+  {
+    "question": "Which city is known as the 'City of Canals'?",
+    "options": ["Amsterdam", "Venice", "Bangkok", "Bruges"],
+    "answer": "Venice"
+  },
+  {
+    "question": "Which country is both in Europe and Asia?",
+    "options": ["Russia", "Turkey", "Kazakhstan", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Which lake is the largest by surface area?",
+    "options": ["Lake Superior", "Caspian Sea", "Lake Victoria", "Lake Baikal"],
+    "answer": "Caspian Sea"
+  },
+  {
+    "question": "Which country is famous for the pyramids of Giza?",
+    "options": ["Mexico", "Egypt", "Peru", "Sudan"],
+    "answer": "Egypt"
+  },
+  {
+    "question": "Which U.S. state has the longest coastline?",
+    "options": ["California", "Florida", "Alaska", "Hawaii"],
+    "answer": "Alaska"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": ["Rio de Janeiro", "Brasília", "São Paulo", "Salvador"],
+    "answer": "Brasília"
+  },
+  {
+    "question": "Which river flows through Egypt?",
+    "options": ["Amazon", "Nile", "Danube", "Congo"],
+    "answer": "Nile"
+  },
+  {
+    "question": "Which African country has the highest population?",
+    "options": ["Nigeria", "Ethiopia", "Egypt", "South Africa"],
+    "answer": "Nigeria"
+  },
+  {
+    "question": "Which country has the most time zones?",
+    "options": ["Russia", "France", "United States", "China"],
+    "answer": "France"
+  },
+  {
+    "question": "Which mountain is the highest in Africa?",
+    "options": [
+      "Mount Kenya",
+      "Mount Kilimanjaro",
+      "Mount Elgon",
+      "Ras Dashen"
+    ],
+    "answer": "Mount Kilimanjaro"
+  },
+  {
+    "question": "Which sea is the saltiest natural body of water?",
+    "options": ["Dead Sea", "Caspian Sea", "Red Sea", "Black Sea"],
+    "answer": "Dead Sea"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "Thailand", "South Korea"],
+    "answer": "Japan"
+  },
+  {
+    "question": "What is the largest island in the world?",
+    "options": ["Greenland", "New Guinea", "Borneo", "Madagascar"],
+    "answer": "Greenland"
+  },
+  {
+    "question": "Which capital city is the highest in altitude?",
+    "options": ["Quito", "La Paz", "Thimphu", "Kathmandu"],
+    "answer": "La Paz"
+  },
+  {
+    "question": "Which desert is the coldest in the world?",
+    "options": ["Gobi", "Atacama", "Antarctic Desert", "Patagonian Desert"],
+    "answer": "Antarctic Desert"
+  }
+]
