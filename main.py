@@ -1,6 +1,7 @@
 from config import Settings
-from utils import GameHandler
+from utils import GameHandler, IOHandler
 
 if __name__ == "__main__":
     questions = GameHandler.getAllQuestions(Settings.QUESTIONS_PATH)
-    print(questions)
+    IOHandler.printInfo(questions)
+    print('Hello')
