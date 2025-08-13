@@ -5,6 +5,23 @@ from utils.IOHandler import IOHandler
 
 class GameHandler:
     @staticmethod
+    def getUserAnswer(message: str, valid_options: list) -> str:
+        input_value = input(message)
+        if input_value.isdigit() and int(input_value) in valid_options:
+            return int(input_value) - 1
+        else:
+            IOHandler.printError(f"Invalid input! Please enter a number in {{{','.join(map(str, valid_options))}}}")
+            return GameHandler.getUserAnswer(message, valid_options)
+
+    @staticmethod
+    def getMenuChoice() -> int:
+        print("Select an option:")
+        print("1. Start Game")
+        print("2. View Statistics")
+        print("3. Quit")
+        return GameHandler.getUserAnswer(message="Enter your choice (1-3): ", valid_options=[1, 2, 3])
+
+    @staticmethod
     def getAllQuestions(questions_folder_path: str) -> list:
         questions = []
         for filename in os.listdir(questions_folder_path):
@@ -30,24 +47,6 @@ class GameHandler:
         else:
             print("No question to display.")
 
-    @staticmethod
-    def getUserAnswer(message: str) -> str:
-        input_value = input(message)
-        if input_value.isdigit() and 1 <= int(input_value) <= 4:
-            return int(input_value) - 1
-        else:
-            IOHandler.printError("Invalid input. Please enter a number between 1 and 4.")
-            return GameHandler.getUserAnswer(message)
-
-    @staticmethod
-    def getUserAnswer(message: str) -> int:
-        input_value = input(message)
-        if input_value.isdigit() and 1 <= int(input_value) <= 4:
-            return int(input_value) - 1
-        else:
-            IOHandler.printError("Invalid input. Please enter a number between 1 and 4.")
-            return GameHandler.getUserAnswer(message)
-        
     @staticmethod
     def checkAnswer(question: dict, user_answer: int) -> bool:
         correct_answer = question.get('answer', '')

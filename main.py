@@ -8,7 +8,7 @@ def playGame():
     question = GameHandler.getOneQuestion(questions)
     GameHandler.displayQuestion(question)
 
-    user_answer = GameHandler.getUserAnswer("Your answer (type the option number): ")
+    user_answer = GameHandler.getUserAnswer(message="Your answer (type the option number): ", valid_options=[1, 2, 3, 4])
     isTrue = GameHandler.checkAnswer(question, user_answer)
 
     statistics.updateWithResult(isTrue)
