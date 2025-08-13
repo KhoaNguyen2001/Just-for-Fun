@@ -1,5 +1,5 @@
 from config import Settings
-from utils import Helper, GameHandler, StatisticHandler
+from utils import Helper, GameHandler, StatisticHandler, SettingsHandler
 
 def playGame():
     statistics = StatisticHandler()
@@ -21,7 +21,13 @@ if __name__ == "__main__":
             while True:
                 playGame()
         elif choice == 2:
-            continue
+            statistics = SettingsHandler()
+            while True:
+                choice = statistics.getMenuChoice()
+                if choice == 1:
+                    statistics.resetStatistics()
+                elif choice == 2:
+                    break
         elif choice == 3:
             print("Thank you for playing!")
             break
