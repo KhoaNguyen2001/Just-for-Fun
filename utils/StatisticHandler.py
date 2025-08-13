@@ -12,7 +12,6 @@ class StatisticHandler:
         FileHandler.writeJsonFile(Settings.STATISTICS_PATH, self.__statistics)
 
     def updateWithResult(self, isTrue: bool) -> None:
-        self.__statistics["total_questions"] += 1
         if isTrue:
             self.__statistics["correct_answers"] += 1
         else:

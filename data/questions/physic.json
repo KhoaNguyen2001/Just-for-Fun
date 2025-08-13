@@ -1,0 +1,192 @@
+[
+  {
+    "question": "What is the speed of light in vacuum?",
+    "options": ["3,000 m/s", "300,000 m/s", "299,792,458 m/s", "3,000,000 m/s"],
+    "answer": "299,792,458 m/s"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": ["Joule", "Newton", "Pascal", "Watt"],
+    "answer": "Newton"
+  },
+  {
+    "question": "Who proposed the three laws of motion?",
+    "options": [
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Nikola Tesla"
+    ],
+    "answer": "Isaac Newton"
+  },
+  {
+    "question": "Which particle has a negative electric charge?",
+    "options": ["Proton", "Electron", "Neutron", "Positron"],
+    "answer": "Electron"
+  },
+  {
+    "question": "What is the acceleration due to gravity on Earth?",
+    "options": ["8.9 m/s²", "9.8 m/s²", "10 m/s²", "9.2 m/s²"],
+    "answer": "9.8 m/s²"
+  },
+  {
+    "question": "Which energy source is considered renewable?",
+    "options": ["Coal", "Oil", "Solar", "Natural Gas"],
+    "answer": "Solar"
+  },
+  {
+    "question": "Which of these is not a vector quantity?",
+    "options": ["Velocity", "Displacement", "Force", "Mass"],
+    "answer": "Mass"
+  },
+  {
+    "question": "What is the SI unit of energy?",
+    "options": ["Joule", "Watt", "Newton", "Volt"],
+    "answer": "Joule"
+  },
+  {
+    "question": "Which subatomic particle is found in the nucleus and has no charge?",
+    "options": ["Proton", "Electron", "Neutron", "Photon"],
+    "answer": "Neutron"
+  },
+  {
+    "question": "What phenomenon explains the bending of light as it passes through different media?",
+    "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+    "answer": "Refraction"
+  },
+  {
+    "question": "Which law states that current is directly proportional to voltage and inversely proportional to resistance?",
+    "options": [
+      "Ohm's Law",
+      "Coulomb's Law",
+      "Faraday's Law",
+      "Newton's Second Law"
+    ],
+    "answer": "Ohm's Law"
+  },
+  {
+    "question": "What is the SI unit of electric current?",
+    "options": ["Volt", "Ampere", "Ohm", "Coulomb"],
+    "answer": "Ampere"
+  },
+  {
+    "question": "What type of lens is used to correct myopia (nearsightedness)?",
+    "options": [
+      "Convex lens",
+      "Concave lens",
+      "Cylindrical lens",
+      "Bifocal lens"
+    ],
+    "answer": "Concave lens"
+  },
+  {
+    "question": "Which particle is the carrier of the electromagnetic force?",
+    "options": ["Photon", "Gluon", "Graviton", "W boson"],
+    "answer": "Photon"
+  },
+  {
+    "question": "Which color of light has the shortest wavelength?",
+    "options": ["Red", "Blue", "Violet", "Green"],
+    "answer": "Violet"
+  },
+  {
+    "question": "Which type of wave requires a medium to travel?",
+    "options": [
+      "Electromagnetic wave",
+      "Radio wave",
+      "Sound wave",
+      "Light wave"
+    ],
+    "answer": "Sound wave"
+  },
+  {
+    "question": "Which scientist is famous for the theory of relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Max Planck", "Niels Bohr"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "What is the SI unit of frequency?",
+    "options": ["Hertz", "Decibel", "Radian", "Tesla"],
+    "answer": "Hertz"
+  },
+  {
+    "question": "What is the process of converting a solid directly into a gas called?",
+    "options": ["Condensation", "Sublimation", "Evaporation", "Deposition"],
+    "answer": "Sublimation"
+  },
+  {
+    "question": "Which type of energy is associated with motion?",
+    "options": [
+      "Potential energy",
+      "Kinetic energy",
+      "Thermal energy",
+      "Nuclear energy"
+    ],
+    "answer": "Kinetic energy"
+  },
+  {
+    "question": "Which metal is commonly used in electrical wiring due to its high conductivity?",
+    "options": ["Iron", "Aluminum", "Copper", "Silver"],
+    "answer": "Copper"
+  },
+  {
+    "question": "What is the SI unit of pressure?",
+    "options": ["Newton", "Pascal", "Bar", "Atmosphere"],
+    "answer": "Pascal"
+  },
+  {
+    "question": "Which property of a wave is measured in meters?",
+    "options": ["Frequency", "Amplitude", "Wavelength", "Speed"],
+    "answer": "Wavelength"
+  },
+  {
+    "question": "What is the main gas in Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "Which effect explains the change in frequency of a wave due to motion of the source or observer?",
+    "options": [
+      "Photoelectric effect",
+      "Doppler effect",
+      "Compton effect",
+      "Hall effect"
+    ],
+    "answer": "Doppler effect"
+  },
+  {
+    "question": "What is the charge of a proton?",
+    "options": ["Negative", "Positive", "Neutral", "Variable"],
+    "answer": "Positive"
+  },
+  {
+    "question": "Which type of nuclear reaction powers the Sun?",
+    "options": ["Fission", "Fusion", "Radioactive decay", "Chain reaction"],
+    "answer": "Fusion"
+  },
+  {
+    "question": "What is the SI unit of power?",
+    "options": ["Watt", "Volt", "Newton", "Joule"],
+    "answer": "Watt"
+  },
+  {
+    "question": "Which physical quantity is measured in Tesla?",
+    "options": [
+      "Electric current",
+      "Magnetic field strength",
+      "Force",
+      "Pressure"
+    ],
+    "answer": "Magnetic field strength"
+  },
+  {
+    "question": "Which type of mirror is used in vehicle side mirrors to provide a wider field of view?",
+    "options": [
+      "Plane mirror",
+      "Concave mirror",
+      "Convex mirror",
+      "Parabolic mirror"
+    ],
+    "answer": "Convex mirror"
+  }
+]
